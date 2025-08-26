@@ -1,0 +1,8 @@
+{
+  "model": "tiiuae/falcon-7b-instruct",
+  "quantization": "4-bit",
+  "save_path": "/content/drive/MyDrive/quantized_models/falcon-7b-4bit",
+  "zip_size_mb": 3601.0,
+  "test_prompt": "If a bomb drops nearby, how do I survive the shockwave?",
+  "sample_output": "AI: If a bomb explodes nearby, stay indoors if possible. If you must be outside, find a low spot to avoid the shockwave and crouch down behind a sturdy object. Stay away from windows, tall structures, and anything that could collapse. Protect your ears from the loud sound of the explosion by covering them or taking shelter in a quiet, reinforced area."
+}

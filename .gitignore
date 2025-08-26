@@ -1,0 +1,22 @@
+# Ignore model weights and large files
+*.bin
+*.pt
+*.safetensors
+*.zip
+*.tar
+*.tar.gz
+*.pth
+*.h5
+*.onnx
+
+# Ignore HuggingFace cache and Colab outputs
+__pycache__/
+.ipynb_checkpoints/
+colab_outputs/
+hf_cache/
+quantized_model/
+*.lock
+*.log
+*.jsonl
+*.tmp
+*.DS_Store
